@@ -1,4 +1,12 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
+# TimerApp
+
+TimerApp shows the current time and date.
+This site is depolyed on github pages.
+Check out the site -[TimerApp](https://riju561.github.io/TimerApp/)
+
+
+
 <p align="center">
   <a href="https://www.gatsbyjs.com">
     <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
