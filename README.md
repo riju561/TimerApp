@@ -5,7 +5,7 @@ TimerApp shows the current time and date.<br/>
 This site is depolyed on github pages.<br/>
 Check out the site -[TimerApp](https://riju561.github.io/TimerApp/)<br/>
 
-
+<hr>
 
 <p align="center">
   <a href="https://www.gatsbyjs.com">
