@@ -1,9 +1,9 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 # TimerApp
 
-TimerApp shows the current time and date.
-This site is depolyed on github pages.
-Check out the site -[TimerApp](https://riju561.github.io/TimerApp/)
+TimerApp shows the current time and date.<br/>
+This site is depolyed on github pages.<br/>
+Check out the site -[TimerApp](https://riju561.github.io/TimerApp/)<br/>
 
 
 
