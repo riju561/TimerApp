@@ -8,7 +8,7 @@ const Main = () => {
     settime(new Date().toLocaleTimeString());
   }
   const dateHandler = () => {
-    setDate(new Date().toDateString())
+    setDate(new Date().toDateString());
   }
   useEffect(() => {
     setHandler();
