@@ -1,5 +1,6 @@
-import React, { useState, useEffect } from "react"
-import styles from "./index.module.css"
+import React, { useState, useEffect } from "react";
+import styles from "./index.module.scss";
+import "@fontsource/press-start-2p";
 
 const Main = () => {
   const [time, settime] = useState(null)
